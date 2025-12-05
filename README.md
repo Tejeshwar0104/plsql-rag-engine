@@ -13,7 +13,7 @@ This acts as an AI-powered **PL/SQL knowledge assistant**.
 
 - 📄 PL/SQL documentation ingestion  
 - ✂️ Text chunking system  
-- 🧠 Embedding generation (Gemma Embeddings / any chosen model)  
+- 🧠 Embedding generation 
 - ⚡ FAISS vector search  
 - 🔍 Intelligent semantic retrieval  
 - 🤖 RAG pipeline (Query → Retrieve → Generate)  
